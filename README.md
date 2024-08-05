@@ -38,6 +38,7 @@ $ ./txg fastqs upload --project-id [insert project id] [insert path to fastq fil
 ```
 + The `project-id` is a unique identifier that is automatically generated when a new project is created in the 10x Cloud portal.
 + The `[path to fastq files]` should reflect the path to the directory of the Fastq files to be uploaded.
+<br>
 
 <ins>A few notes: </ins>
 + The first time that you use the 10x Genomics Cloud CLI you will need to provide an access token, which can be found in Account Settings.
